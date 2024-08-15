@@ -1,0 +1,62 @@
+type: edu
+files:
+  - name: src/antifraud/AntiFraudApplication.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/AntiFraudTest.java
+    visible: false
+    learner_created: false
+  - name: src/antifraud/controller/AntiFraudController.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/service/AntiFraudService.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/response/TransactionPostResponseDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/enums/TransactionEvaluation.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/request/TransactionPostDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/config/SecurityConfig.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/repository/AppUserRepository.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/data/AppUser.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/adapter/AppUserAdapter.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/service/AppUserDetailsServiceImpl.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/request/UserPostDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/response/UserPostResponseDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/controller/AppUserController.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/response/UserDeleteResponseDTO.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/18068#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 09 Aug 2024 21:55:06 UTC"
+record: 2

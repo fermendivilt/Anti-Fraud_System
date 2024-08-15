@@ -1,0 +1,114 @@
+type: edu
+custom_name: Stolen cards & suspicious IPs
+files:
+  - name: src/antifraud/AntiFraudApplication.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/AntiFraudTest.java
+    visible: false
+    learner_created: false
+  - name: src/antifraud/service/AppUserDetailsServiceImpl.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/enums/AccountStatusAction.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/adapter/AppUserAdapter.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/data/AppUser.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/service/AntiFraudService.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/response/UserDeleteResponseDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/request/UserRolePutDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/request/UserPostDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/controller/AntiFraudController.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/enums/NewUserRole.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/controller/AppUserController.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/response/TransactionPostResponseDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/enums/TransactionEvaluation.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/config/SecurityConfig.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/response/UserAccessPutResponseDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/request/TransactionPostDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/repository/AppUserRepository.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/response/UserPostResponseDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/request/UserAccessPutDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/data/SuspiciousIP.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/request/SuspiciousIPPostDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/response/SuspiciousIPPostResponseDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/repository/SuspiciousIPRepository.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/config/Constants.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/response/SuspiciousIPDeleteResponseDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/request/StolenCardPostDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/response/StolenCardPostResponseDTO.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/data/StolenCard.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/utilities/lunhvalidator/LuhnCheckValidator.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/repository/StolenCardRepository.java
+    visible: true
+    learner_created: true
+  - name: src/antifraud/dto/response/StolenCardDeleteResponseDTO.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/18070#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 13 Aug 2024 18:53:46 UTC"
+record: 4
